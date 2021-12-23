@@ -15,4 +15,5 @@ public class Test {
 		context.refresh();
 		System.out.println("spring-framework源码环境编译好了：" + context.getBean(Bean.class));
 	}
+	
 }
